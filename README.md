@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/flexbox-built-order-summary-ynIcMW1pP)
+- Live Site URL: (https://modest-pike-f3c0a8.netlify.app/)
 
 ### Built with
 

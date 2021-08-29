@@ -159,4 +159,8 @@ header p {
   .buttons {
     margin-top: 35px;
   }
+
+  .attribution {
+    font-size: 12px;
+  }
 }
